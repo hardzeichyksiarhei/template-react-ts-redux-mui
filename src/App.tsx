@@ -12,6 +12,13 @@ import About from './containers/about/About';
 import Home from './containers/home/Home';
 
 function App() {
+
+  let arr = [2, 3]
+
+  let b = arr[0]
+
+  console.log("sfsdf")
+
   return (
     <div className="App">
       <Router>
